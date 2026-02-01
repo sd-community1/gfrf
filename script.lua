@@ -1,7 +1,7 @@
 --[[ 
     PREMIUM WIDE & SHORT UI (DASHBOARD STYLE)
     Features: Mobile Joystick, Two-Column Layout, Accent Buttons
-    Author: Gemini
+    Author: VNDXS
 ]]
 
 local TweenService = game:GetService("TweenService")
@@ -353,4 +353,4 @@ BtnDisc.MouseButton1Click:Connect(function() SetMode("Disc")
 end)
 BtnClose.MouseButton1Click:Connect(function() if FreecamEnabled then ToggleFreecam() end ScreenGui:Destroy() end)
 
-print("Wide & Short Dashboard Loaded.")
+print("VNDXS Looding")
